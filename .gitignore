@@ -1,0 +1,17 @@
+*.csv
+*.png
+venv/
+confusion_matrix/
+src/.ipynb_checkpoints/
+src/text_classifier/.ipynb_checkpoints/
+src/machine_learning_base/json_file/all_text_1_6/
+src/machine_learning_base/json_file/gemini_fullai/
+src/machine_learning_base/json_file/gemini_improved/
+src/machine_learning_base/json_file/openai_fullai/
+src/machine_learning_base/json_file/openai_improved/
+src/machine_learning_base/json_file/Combine_Json.py
+src/machine_learning_base/json_file/NY_Times_Testing.json
+src/machine_learning_base/json_file/OpenAI_Testing.json
+src/machine_learning_base/json_file/test_results.py
+__pycache__/
+*.pyc
