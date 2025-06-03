@@ -1,6 +1,6 @@
-# Running the Thesis Project
+# Running the Project
 
-This document outlines the steps required to set up and run the Python project for this thesis.
+This document outlines the steps required to set up and run the Python project for this project.
 
 ## Prerequisites
 
